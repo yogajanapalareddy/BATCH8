@@ -1,2 +1,4 @@
 hello nanda welcome to git repo
 this is your first commit
+edited done from master
+hello commit your changes
