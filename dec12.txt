@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hii
 how are you guys
 am fine here
 
+=======
+HI hello text editor
+This for test purpose
+>>>>>>> e4d76d03f656aa795700aea52098434da138c2ac
