@@ -1,12 +1,5 @@
 hii
 how are you guys
 am fine here
-<<<<<<< HEAD
 i am yogananda
 
-=======
-HI hello text editor
-This for test purpose
->>>>>>> e4d76d03f656aa795700aea52098434da138c2ac
-=======
->>>>>>> a8c04bb5bffb35941044fa0be82048b769ac825f
