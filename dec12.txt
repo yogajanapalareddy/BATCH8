@@ -1,0 +1,2 @@
+HI hello text editor
+This for test purpose
